@@ -1,0 +1,339 @@
+[
+
+    {
+        "name": "Akai",
+        "id": 1,
+        "atk":23,
+        "def": 22,
+        "pv": 25,
+        "vit": 16,
+        "total": 22
+    },
+
+
+    {
+        "name": "Raiji",
+        "id": 2,
+        "atk":23,
+        "def": 23,
+        "pv": 17,
+        "vit": 20,
+        "total": 21
+    },
+
+
+    {
+        "name": "Mikaru",
+        "id": 3,
+        "atk":18,
+        "def": 21,
+        "pv": 23,
+        "vit": 23,
+        "total": 21
+    },
+
+
+    {
+        "name": "Arukas",
+        "id": 4,
+        "atk":18,
+        "def": 16,
+        "pv": 25,
+        "vit": 23,
+        "total": 20
+    },
+
+
+    {
+        "name": "Asano",
+        "id": 5,
+        "atk":21,
+        "def": 16,
+        "pv": 15,
+        "vit": 17,
+        "total": 17
+    },
+
+
+    {
+        "name": "Miura",
+        "id": 6,
+        "atk":19,
+        "def": 24,
+        "pv": 17,
+        "vit": 23,
+        "total": 21
+    },
+
+
+    {
+        "name": "Ken Tasai",
+        "id": 7,
+        "atk":24,
+        "def": 17,
+        "pv": 20,
+        "vit": 24,
+        "total": 21
+    },
+
+
+    {
+        "name": "Otsuki",
+        "id": 8,
+        "atk":22,
+        "def": 21,
+        "pv": 25,
+        "vit": 20,
+        "total": 22
+    },
+
+
+    {
+        "name": "Basuke",
+        "id": 9,
+        "atk":22,
+        "def": 19,
+        "pv": 20,
+        "vit": 17,
+        "total": 20
+    },
+
+
+    {
+        "name": "Hebi",
+        "id": 10,
+        "atk":22,
+        "def": 19,
+        "pv": 23,
+        "vit": 17,
+        "total": 20
+    },
+
+
+    {
+        "name": "Chikara",
+        "id": 11,
+        "atk":22,
+        "def": 20,
+        "pv": 25,
+        "vit": 19,
+        "total": 22
+    },
+
+    {
+        "name": "Taimatsu",
+        "id": 12,
+        "atk":24,
+        "def": 22,
+        "pv": 19,
+        "vit": 21,
+        "total": 22
+    },
+
+    {
+        "name": "Ro Kenja",
+        "id": 13,
+        "atk":24,
+        "def": 23,
+        "pv": 21,
+        "vit": 17,
+        "total": 21
+    },
+    {
+        "name": "Suimaru",
+        "id": 14,
+        "atk":19,
+        "def": 19,
+        "pv": 18,
+        "vit": 20,
+        "total": 19
+    },
+
+    {
+        "name": "Rai",
+        "id": 15,
+        "atk":25,
+        "def": 17,
+        "pv": 20,
+        "vit": 25,
+        "total": 22
+    },
+
+    {
+        "name": "Kokuma",
+        "id": 16,
+        "atk":24,
+        "def": 18,
+        "pv": 21,
+        "vit": 19,
+        "total": 21
+    },
+
+    {
+        "name": "Umi",
+        "id": 17,
+        "atk":20,
+        "def": 17,
+        "pv": 19,
+        "vit": 23,
+        "total": 20
+    },
+
+    {
+        "name": "Jaakuna",
+        "id": 18,
+        "atk":24,
+        "def": 22,
+        "pv": 23,
+        "vit": 22,
+        "total": 23
+    },
+
+    {
+        "name": "Kossori",
+        "id": 19,
+        "atk":24,
+        "def": 20,
+        "pv": 17,
+        "vit": 24,
+        "total": 21
+    },
+
+    {
+        "name": "Hokushi",
+        "id": 20,
+        "atk":25,
+        "def": 18,
+        "pv": 16,
+        "vit": 19,
+        "total": 20
+    },
+
+    {
+        "name": "Hiken",
+        "id": 21,
+        "atk":17,
+        "def": 22,
+        "pv": 22,
+        "vit": 20,
+        "total": 20
+    },
+
+    {
+        "name": "Senshi",
+        "id": 22,
+        "atk":17,
+        "def": 23,
+        "pv": 21,
+        "vit": 15,
+        "total": 19
+    },
+
+    {
+        "name": "Tsuin & Tsuun",
+        "id": 23,
+        "atk":25,
+        "def": 20,
+        "pv": 16,
+        "vit": 19,
+        "total": 20
+    },
+
+    {
+        "name": "Monku",
+        "id": 24,
+        "atk":22,
+        "def": 23,
+        "pv": 22,
+        "vit": 20,
+        "total": 22
+    },[
+    {
+        "name": "Atamagai",
+        "id": 25,
+        "atk":17,
+        "def": 15,
+        "pv": 21,
+        "vit": 17,
+        "total": 18
+    },
+
+    {
+        "name": "Okina",
+        "id": 26,
+        "atk":24,
+        "def": 22,
+        "pv": 23,
+        "vit": 15,
+        "total": 21
+    },
+
+    {
+        "name": "Hayai",
+        "id": 27,
+        "atk":15,
+        "def": 24,
+        "pv": 22,
+        "vit": 25,
+        "total": 22
+    },
+
+    {
+        "name": "Sura",
+        "id": 28,
+        "atk":25,
+        "def": 16,
+        "pv": 25,
+        "vit": 17,
+        "total": 21
+    },
+
+    {
+        "name": "Mei",
+        "id": 29,
+        "atk":20,
+        "def": 23,
+        "pv": 21,
+        "vit": 20,
+        "total": 21
+    },
+
+    {
+        "name": "Su-Lin",
+        "id": 30,
+        "atk":23,
+        "def": 18,
+        "pv": 20,
+        "vit": 21,
+        "total": 21
+    },
+
+    {
+        "name": "Owari",
+        "id": 31,
+        "atk":24,
+        "def": 20,
+        "pv": 18,
+        "vit": 22,
+        "total": 21
+    },
+
+    {
+        "name": "Shi",
+        "id": 32,
+        "atk":24,
+        "def": 21,
+        "pv": 19,
+        "vit": 24,
+        "total": 22
+    },
+   {
+        "name": "Kyomaru",
+        "id": 33,
+        "atk":25,
+        "def": 21,
+        "pv": 19,
+        "vit": 24,
+        "total": 22
+    }
+]
