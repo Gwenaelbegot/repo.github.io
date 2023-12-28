@@ -7,7 +7,8 @@
         "def": 22,
         "pv": 25,
         "vit": 16,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Akai.png?raw=true"
     },
 
 
@@ -18,7 +19,8 @@
         "def": 23,
         "pv": 17,
         "vit": 20,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Raiji.png?raw=trueQ"
     },
 
 
@@ -29,7 +31,8 @@
         "def": 21,
         "pv": 23,
         "vit": 23,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Mikaru.png?raw=trueUA"
     },
 
 
@@ -40,7 +43,8 @@
         "def": 16,
         "pv": 25,
         "vit": 23,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Arukas.png?raw=true4Q"
     },
 
 
@@ -51,7 +55,8 @@
         "def": 16,
         "pv": 15,
         "vit": 17,
-        "total": 17
+        "total": 17,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Asano.png?raw=trueQ"
     },
 
 
@@ -62,7 +67,8 @@
         "def": 24,
         "pv": 17,
         "vit": 23,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Miura.png?raw=true"
     },
 
 
@@ -73,7 +79,8 @@
         "def": 17,
         "pv": 20,
         "vit": 24,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Ken%20Tasai.png?raw=true"
     },
 
 
@@ -84,7 +91,8 @@
         "def": 21,
         "pv": 25,
         "vit": 20,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Otsuki.png?raw=true"
     },
 
 
@@ -95,7 +103,8 @@
         "def": 19,
         "pv": 20,
         "vit": 17,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Basuke.png?raw=true"
     },
 
 
@@ -106,7 +115,8 @@
         "def": 19,
         "pv": 23,
         "vit": 17,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Hebi.png?raw=true"
     },
 
 
@@ -117,7 +127,8 @@
         "def": 20,
         "pv": 25,
         "vit": 19,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Chikara.png?raw=true"
     },
 
     {
@@ -127,7 +138,8 @@
         "def": 22,
         "pv": 19,
         "vit": 21,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Taimatsu.png?raw=true"
     },
 
     {
@@ -137,7 +149,8 @@
         "def": 23,
         "pv": 21,
         "vit": 17,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Ro%20Kenja.png?raw=true"
     },
     {
         "name": "Suimaru",
@@ -146,7 +159,8 @@
         "def": 19,
         "pv": 18,
         "vit": 20,
-        "total": 19
+        "total": 19,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Suimaru.png?raw=true"
     },
 
     {
@@ -156,7 +170,8 @@
         "def": 17,
         "pv": 20,
         "vit": 25,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Rai.png?raw=true"
     },
 
     {
@@ -166,7 +181,8 @@
         "def": 18,
         "pv": 21,
         "vit": 19,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Kokuma.png?raw=true"
     },
 
     {
@@ -176,7 +192,8 @@
         "def": 17,
         "pv": 19,
         "vit": 23,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Umi.png?raw=true"
     },
 
     {
@@ -186,7 +203,8 @@
         "def": 22,
         "pv": 23,
         "vit": 22,
-        "total": 23
+        "total": 23,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Jaakuna.png?raw=true"
     },
 
     {
@@ -196,7 +214,8 @@
         "def": 20,
         "pv": 17,
         "vit": 24,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Kossori.png?raw=true"
     },
 
     {
@@ -206,7 +225,8 @@
         "def": 18,
         "pv": 16,
         "vit": 19,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Hokushi.png?raw=true"
     },
 
     {
@@ -216,7 +236,8 @@
         "def": 22,
         "pv": 22,
         "vit": 20,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Hiken.png?raw=true"
     },
 
     {
@@ -226,7 +247,8 @@
         "def": 23,
         "pv": 21,
         "vit": 15,
-        "total": 19
+        "total": 19,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Senshi.png?raw=true"
     },
 
     {
@@ -236,7 +258,8 @@
         "def": 20,
         "pv": 16,
         "vit": 19,
-        "total": 20
+        "total": 20,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Tsuin%20&%20Tsuun.png?raw=true"
     },
 
     {
@@ -246,7 +269,8 @@
         "def": 23,
         "pv": 22,
         "vit": 20,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Monku.png?raw=true"
     },[
     {
         "name": "Atamagai",
@@ -255,7 +279,8 @@
         "def": 15,
         "pv": 21,
         "vit": 17,
-        "total": 18
+        "total": 18,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Atamagai.png?raw=true"
     },
 
     {
@@ -265,7 +290,8 @@
         "def": 22,
         "pv": 23,
         "vit": 15,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Okina.png?raw=true"
     },
 
     {
@@ -275,7 +301,8 @@
         "def": 24,
         "pv": 22,
         "vit": 25,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Hayai.png?raw=true"
     },
 
     {
@@ -285,7 +312,8 @@
         "def": 16,
         "pv": 25,
         "vit": 17,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Sura.png?raw=true"
     },
 
     {
@@ -295,7 +323,8 @@
         "def": 23,
         "pv": 21,
         "vit": 20,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Mei.png?raw=true"
     },
 
     {
@@ -305,7 +334,8 @@
         "def": 18,
         "pv": 20,
         "vit": 21,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Su-Lin.png?raw=true"
     },
 
     {
@@ -315,7 +345,8 @@
         "def": 20,
         "pv": 18,
         "vit": 22,
-        "total": 21
+        "total": 21,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Owari.png?raw=true"
     },
 
     {
@@ -325,7 +356,8 @@
         "def": 21,
         "pv": 19,
         "vit": 24,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Shi.png?raw=true"
     },
    {
         "name": "Kyomaru",
@@ -334,6 +366,7 @@
         "def": 21,
         "pv": 19,
         "vit": 24,
-        "total": 22
+        "total": 22,
+        "image": "https://github.com/Gwenaelbegot/api-ninjaCards/blob/main/Image/Kyomaru.png?raw=true"
     }
 ]
